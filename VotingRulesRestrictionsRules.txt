@@ -1,5 +1,5 @@
 投票主体創造未完成ライセンス (Voting-Based Creation License) 通称 VBC License の投票規則の権力の制限のため投票規則制限規則
-
+本規則はhttps://github.com/ichigochameleon/に属する。
 投票規則には以下の項目のみ記載する必要がある。
     著作者が持つ票数
     決定条件
